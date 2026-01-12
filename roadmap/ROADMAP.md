@@ -43,12 +43,12 @@
 
 - [x] Node.js project initialized with proper TypeScript configuration
 - [x] Dockerfile created for Node.js application
-- [ ] docker-compose.yml with services: App, PostgreSQL, Redis
-- [ ] .env.example documents all required variables
-- [ ] Hot-reloading configured for development
-- [ ] Git repository initialized with meaningful first commit
-- [ ] `docker-compose up` starts full stack successfully
-- [ ] All services healthy and accessible
+- [x] docker-compose.yml with services: App, PostgreSQL, Redis
+- [x] .env.example documents all required variables
+- [x] Hot-reloading configured for development
+- [x] Git repository initialized with meaningful first commit
+- [x] `docker-compose up` starts full stack successfully
+- [x] All services healthy and accessible
 - [ ] TypeScript compiler configured (strict mode)
 
 **Learning Topics:**
